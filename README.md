@@ -1,5 +1,6 @@
 # React + Vite
 
+Apiden veri çekerek hazırladığım basit bir proje
 
 ![site1](https://github.com/merenisler/Products-Cards/assets/142229251/73c9aebc-6a37-4c07-a50b-f0d0010ffcf6)
 
